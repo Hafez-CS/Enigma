@@ -70,7 +70,7 @@ print("Encrypted message:", encrypted_message)
 
 **enigma decrypt :**
 
-```pyhon
+```python
 class SimpleEnigma:
     def __init__(self, rotor1, rotor2, rotor3, reflector):
         # Adjustment of rotors and reflectors
